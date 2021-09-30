@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+Full Stack Web Development Fellow at Pursuit; an intensive 12-month Software Engineering fellowship with a 9% acceptance rate. I plan to utilize my practices here to create a new wave of diversity within the tech industry with skills such as JavaScript, CSS and pair programming.
+
+My time away from programming is used for hobbies like archery, watching anime and cycling.
+
+If you want to know more about me, send me a message or reach out to me at joshuaewuoso@pursuit.org
+
+
 <!--
 **JoshuaEwuoso/joshuaewuoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
