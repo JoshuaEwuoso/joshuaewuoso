@@ -5,7 +5,7 @@ Full Stack Web Development Fellow at Pursuit; an intensive 12-month Software Eng
 
 My time away from programming is used for hobbies like archery, watching anime and cycling.
 
-If you want to know more about me, send me a message or reach out to me at joshuaewuoso@pursuit.org
+If you want to know more about me, send me a message or reach out to me at joe.omosanya@icloud.com
 
 
 <!--
